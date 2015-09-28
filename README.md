@@ -1,2 +1,2 @@
 # html5-cheat-sheet
-Cheat sheet for html5
+This cheat sheet have most useful tags in html5 with attributes, description, html5 start template and link to MDN documentation!
